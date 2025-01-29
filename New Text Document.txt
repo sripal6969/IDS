@@ -1,0 +1,4 @@
+<?php
+$x="hellow world";
+echo $x;
+?>
